@@ -4,6 +4,7 @@
 1. lesson5 - 陣列
 2. lesson6 - Slice
 3. lesson13 - select
-4. 
+4. lesson14 - defer - panic
+5. 
 
 
