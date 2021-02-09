@@ -6,6 +6,6 @@
 3. lesson13 - select
 4. lesson14 - defer - panic
 5. lesson15 - 指標
-6. 
+6. lesson16 - struct
 
 
