@@ -60,6 +60,7 @@ func main() {
 	v := <-ch
 	fmt.Println("v", v)
 
+	// 實務上不會這樣寫
 	select {
 	case <-ch:
 		fmt.Println("random 01")

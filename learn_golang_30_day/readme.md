@@ -1,4 +1,5 @@
 # 學習來自
+
 [初學 Golang 30 天系列](https://ithelp.ithome.com.tw/articles/10156438)
 
 1. lesson5 - 陣列
@@ -7,5 +8,4 @@
 4. lesson14 - defer - panic
 5. lesson15 - 指標
 6. lesson16 - struct
-
-
+7. lesson17 - interface
