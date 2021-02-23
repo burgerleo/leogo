@@ -30,3 +30,4 @@ https://william-yeh.net/post/2019/03/wsl-cmder-zsh/
 |     Ctrl+W     |  刪除左側單字  |
 |     Ctrl+L     |    清除螢幕    |
 | Ctrl+X Ctrl+E  |    編輯命令    |
+
