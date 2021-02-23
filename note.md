@@ -9,6 +9,7 @@ https://william-yeh.net/post/2019/03/wsl-cmder-zsh/
 2. git
 3. golang
 4. source tree
+5. gvm
 
 # bug 解決
 
