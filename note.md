@@ -27,7 +27,7 @@ https://william-yeh.net/post/2019/03/wsl-cmder-zsh/
 |     Ctrl+K     | 刪除游標後文字 |
 |     Ctrl+U     |  刪除整列文字  |
 |     Alt+D      |  刪除右側單字  |
-|     Ctrl+W     |  刪除左側單字  |
+|     Alt+W      |  刪除左側單字  |
 |     Ctrl+L     |    清除螢幕    |
 | Ctrl+X Ctrl+E  |    編輯命令    |
 

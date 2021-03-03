@@ -7,5 +7,7 @@ import "fmt"
 // Enter main function.
 func main() {
 	// Print out string `"Hello World"` on stand output.
-	fmt.Println("Hello World")
+
+	leo := "Hellow world"
+	fmt.Println(leo)
 }
